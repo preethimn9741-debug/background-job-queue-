@@ -1,0 +1,5 @@
+[
+  {"id": 1, "type": "email"},
+  {"id": 2, "type": "report"},
+  {"id": 3, "type": "cleanup"}
+]
